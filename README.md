@@ -1,6 +1,6 @@
 <p align="center">
     <img width="1536" height="1024" alt="617145661-ae4a52f8-c00d-4f75-bc86-3c89380503f5" src="https://github.com/user-attachments/assets/49dbb9b5-7835-43b4-a1e9-67434dd16eab" />
-> -->
+
 </p>
 
 <h1 align="center">Benchmark PRO</h1>
